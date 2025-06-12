@@ -4,10 +4,8 @@
 # Introducción Algoritmia
 #
 # Trabajo Práctico Python
-# Ejemplo 1: Tema Análisis de Ventas Online
+# Tema: Análisis de Ventas Online
 #
-# RESTRICCIÓN CLAVE: Solo conceptos básicos de Python,
-#                     sin imports ni funcionalidades avanzadas.
 # ==============================================================================
 
 # --- CONSTANTES ---
@@ -18,7 +16,7 @@ CANTIDAD_VENDIDA = 3
 FECHA_VENTA = 4
 
 
-# --- FUNCIONES DE UTILIDAD PARA LA UI (SIN IMPORTS) ---
+# --- FUNCIONES DE UTILIDAD PARA LA UI ---
 
 def simular_limpiar_consola():
     """Simula una limpieza de consola imprimiendo muchas líneas vacías."""
